@@ -23,9 +23,9 @@ A feladatot kétféle formában kell beadnod:
 
 	Ezután a megoldásodat tartalmazó repo-t meg kell osztanod velünk. Ehhez a `skillsithu` GitHub azonosítónkat használd.
 
-2.	Kész weblap publikálása (deploy) a Netlify szolgáltatás segítségével publikáld 
+2.	Kész weblap publikálása (deploy) a Netlify szolgáltatás segítségével 
 
-	a.	A Netlify egy olyan ingyenesen is használható szolgáltatás, ahol statikus webhelyek oszthatók meg a nyilvánossággal. A szolgáltatás úgy működik, hogy a Netlify-on létrehozott webalkalmazást, amit egy GIT repoval (esetünkben a forduló feladatához létrehozott GitHub repoval) tudsz összekapcsolni. (Vigyázz, csúnya, magyartalan mondat következik! :))  Amikor egy új commitot push-olsz a központi repoba, akkor a Netlify ennek alapján elkészít egy új buildet, és azt azonnal ki is publikálja az app-hoz tartozó nyilvános címen. Ebben a fordulóban csak natív HTML/CSS/JavaScript hármast használszhatsz, így a build (a publikálásra előkészített csomag) gyakorlatilag meg fog egyezni a forráskóddal. Ne ijedj meg, a dolog sokkal egyszerűbb, mint amilyennek elsőre látszik! Ha elakadsz keress bennünket nyugodtan iránymutatásért!
+	a.	A Netlify egy olyan ingyenesen is használható szolgáltatás, ahol statikus webhelyek oszthatók meg a nyilvánossággal. A szolgáltatás úgy működik, hogy a Netlify-on létrehozott webalkalmazást, amit egy GIT repoval (esetünkben a forduló feladatához létrehozott GitHub repoddal) tudsz összekapcsolni. (Vigyázz, csúnya, magyartalan mondat következik! :))  Amikor egy új commitot push-olsz a központi repoba, akkor a Netlify ennek alapján elkészít egy új buildet, és azt azonnal ki is publikálja az app-hoz tartozó nyilvános címen. Ebben a fordulóban csak natív HTML/CSS/JavaScript hármast használhatsz, így a build (a publikálásra előkészített csomag) gyakorlatilag meg fog egyezni a forráskóddal. Ne ijedj meg, a dolog sokkal egyszerűbb, mint amilyennek elsőre látszik! Ha elakadsz, keress bennünket nyugodtan iránymutatásért!
 
 	b.	Regisztrálj egy azonosítót a Netlify-on (https://www.netlify.com/), hozz létre egy új appot a weblapod számára (App New Site > Import an existing project), kapcsold össze az appot a GitHub repoddal, majd válassz egy tetszőleges szabad hostnevet.
  
