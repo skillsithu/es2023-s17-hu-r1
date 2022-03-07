@@ -37,5 +37,5 @@ A feladat leírását ebben a repoban, a [ES2023_HU_TP_S17_R1_EN_1_1.pdf](https:
 
 #### Határidő
 
-A feladatok elkészítésének végső határideje: **2022.03.09., kedd, éjfél**
+A feladatok elkészítésének végső határideje: **2022.03.09., szerda, éjfél**
 Beadott megoldásnak azt tekintjük, amit a fenti időben a repodban és a netlify-os oldaladon találunk.
